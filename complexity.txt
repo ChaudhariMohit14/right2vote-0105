@@ -1,0 +1,17 @@
+n = number of instruments
+
+-> Time Complexity:
+
+1. generateCombinations => O(2^n * n)
+2. findOptimalCombination => O(2^n * n)
+
+Time Complexity =>  O(2^n * n)
+
+
+
+-> Space Complexity:
+
+1. generateCombinations => O(2^n * n)
+2. findOptimalCombination => O(n)
+
+Space Complexity => O(2^n * n)

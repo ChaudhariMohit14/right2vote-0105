@@ -1,0 +1,4 @@
+Instruments:  [ 'Instrument 1', 'Instrument 3', 'Instrument 4' ]
+Total Value:  38
+Total Weight:  10
+Total Volume:  7
